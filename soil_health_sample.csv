@@ -1,0 +1,13 @@
+state,district,lat,lon,nitrogen_kg_ha,phosphorus_kg_ha,potassium_kg_ha,ph,organic_carbon_pct,soil_type
+Maharashtra,Beed,18.9891,75.7601,180,12,140,7.8,0.35,Black cotton soil
+Maharashtra,Osmanabad,18.1860,76.0419,165,10,130,7.6,0.32,Black cotton soil
+Maharashtra,Ahmednagar,19.0952,74.7496,210,15,160,7.4,0.41,Medium black soil
+Maharashtra,Latur,18.4088,76.5604,172,11,135,7.7,0.33,Black cotton soil
+Maharashtra,Nashik,19.9975,73.7898,195,14,150,7.2,0.44,Medium black soil
+Maharashtra,Yavatmal,20.3888,78.1204,168,10,128,7.9,0.31,Black cotton soil
+Bihar,Purnia,25.7771,87.4753,240,22,175,6.5,0.55,Alluvial soil
+Bihar,Madhepura,25.9200,86.7900,225,20,168,6.7,0.52,Alluvial soil
+Bihar,Muzaffarpur,26.1197,85.3910,255,25,182,6.3,0.58,Alluvial soil
+Bihar,Darbhanga,26.1542,85.8918,238,21,172,6.4,0.53,Alluvial soil
+Bihar,Gaya,24.7955,84.9994,205,18,155,6.9,0.48,Alluvial soil
+Bihar,Nalanda,25.1359,85.4423,220,19,163,6.6,0.50,Alluvial soil
